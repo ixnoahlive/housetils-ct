@@ -6,9 +6,6 @@
 # |_|  |_|\___/ \__,_|___/\___|\__|_|_|___/
 #           Module Configuration
 
-# Shows unsupported commands, do not request support for these commands.
-show-unsupported-commands: false
-
 ########################
 ### Command Specific ###
 ########################
