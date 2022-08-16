@@ -1,0 +1,6 @@
+{
+    "name":"Housetils",
+    "creator":"ixNoah",
+    "description":"Various utilities for Hypixel's Housing gamemode.",
+    "entry":"index.js"
+}

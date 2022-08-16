@@ -1,0 +1,20 @@
+#  _    _                      _   _ _     
+# | |  | |                    | | (_) |    
+# | |__| | ___  _   _ ___  ___| |_ _| |___ 
+# |  __  |/ _ \| | | / __|/ _ \ __| | / __|
+# | |  | | (_) | |_| \__ \  __/ |_| | \__ \
+# |_|  |_|\___/ \__,_|___/\___|\__|_|_|___/
+#          Module Configuration
+
+
+########################
+### Command Specific ###
+########################
+
+# Make /HideFlags default to 'all' when no argument is provided
+hf-defaultall: false
+
+# Round coordinates like X=2.343 Y=5.157 Z=8.123 to something like X=2.5 Y=5 Z=8.5
+coord-round: true
+# Doesn't show yaw and pitch, was told to add this even though its useless
+coord-hide-yp: false
