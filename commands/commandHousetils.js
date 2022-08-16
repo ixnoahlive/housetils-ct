@@ -1,4 +1,6 @@
+import config from '../config/config'
 const officialCommands = ['housetils','hideflags','showflags','copyxyz']
+const unofficialCommands = ['']
 register('command', () => {
     ChatLib.chat('&6&m-----------------------------------------------------')
     ChatLib.chat('&6Housetils Commands:')

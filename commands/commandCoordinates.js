@@ -9,7 +9,7 @@ register('command', () => {
 
     if (config['coord-round']==true) {
         X = Math.floor(X)+.5
-        Y = Math.floor(Y)+.5
+        Y = Math.floor(Y)
         Z = Math.floor(Z)+.5
     }
 

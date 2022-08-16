@@ -4,8 +4,10 @@
 # |  __  |/ _ \| | | / __|/ _ \ __| | / __|
 # | |  | | (_) | |_| \__ \  __/ |_| | \__ \
 # |_|  |_|\___/ \__,_|___/\___|\__|_|_|___/
-#          Module Configuration
+#           Module Configuration
 
+# Shows unsupported commands, do not request support for these commands.
+show-unsupported-commands: false
 
 ########################
 ### Command Specific ###
