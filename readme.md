@@ -26,6 +26,7 @@ Housetils is not too much of a hassle to install, but some basic knowledge on Mi
 Housetils is now installed! Enjoy!
 ## Method 2
 - Download the latest release from the GitHub you are on right now
+- Or, you can download the codebase and use that as the zip. It may have a few patched bugs.
 - Copy the zip file
 - Head to `.minecraft/config/ChatTriggers/modules` and paste the zip file
 - Unzip the file
