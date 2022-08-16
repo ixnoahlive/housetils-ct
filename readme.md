@@ -15,7 +15,7 @@ Housetils is a utility module built on ChatTriggers, made for Hypixel's Housing 
 It provides various utilities to users like **quickly copying coordinates** and **editing item NBT**.
 
 # Getting Started
-Housetils is not too much of a hassle to install, but some basic knowledge on Minecraft Modding is required. You must have [Forge 1.8.9]('https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html') and [ChatTriggers 2.1.5](https://chattriggers.com). There are two methods to install.
+Housetils is not too much of a hassle to install, but some basic knowledge on Minecraft Modding is required. You must have [Forge 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) and [ChatTriggers 2.1.5](https://chattriggers.com). There are two methods to install.
 
 ## Method 1
 - Open Minecraft with ChatTriggers mod
