@@ -38,3 +38,8 @@ Contributions are very appreciated, please make sure that your contributions are
 Do not edit the `config.yaml` file, unless it is to add a new option. Any pull requests that remove an option or change a pre-existing option's value will be denied, unless a good reason is provided.
 
 Open a [pull request](https://github.com/noahthenerd/housetils/pull) and we will see what you changed, and approve/deny it accordingly.
+# Check this out!
+These are projects that we think are cool, and you might be interested in!
+
+[Housing Editor](https://github.com/ImaDoofus/HousingEditor)
+[ProtoolsCUI](https://www.chattriggers.com/modules/v/ProtoolsCUI)
