@@ -1,6 +1,6 @@
 // Read config
 
-let config = FileLib.read('Housing', 'config/config.yaml')
+let config = FileLib.read('Housetils', 'config/config.yaml')
 if (!config) throw new Error('Error while reading config!')
 let lines = config.split('\n')
 let newlines = []
